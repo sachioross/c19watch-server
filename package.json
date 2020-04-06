@@ -1,0 +1,13 @@
+{
+  "name": "c19watch-server",
+  "version": "1.0.0",
+  "description": "Server functionality for c19watch site",
+  "main": "index.js",
+  "repository": "https://github.com/sachioross/c19watch-server",
+  "author": "Douglas Ross",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
